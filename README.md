@@ -3,5 +3,5 @@ termux:
 - pkg install python3
 - pkg install python
 - cd Binery
-- pip install -r requirements.txt
+- pip install -r req.txt
 - python Binery.py
